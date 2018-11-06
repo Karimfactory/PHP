@@ -1,6 +1,7 @@
 CREATE DATABASE banque CHARACTER SET 'utf8';
 
 USE banque;
+USE banque;
 
 CREATE TABLE user (
 	id INT unsigned NOT NULL auto_increment,
